@@ -1,4 +1,4 @@
-import java.util.Scanner;
+impor   .util.Scanner;
 
 public class Uni2Exe14 {
     public static void main(String[] args) {
